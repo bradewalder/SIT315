@@ -1,5 +1,3 @@
-// Source Code for TaskM1.T1P: Build a simple Sense-Think-Act Board
-
 // Pin assignments
 const int motionSensorPin = 2;  // Digital input pin for the PIR motion sensor
 const int ledPin = 13;          // Digital output pin for the LED
@@ -26,3 +24,5 @@ void loop() {
 
   delay(100);  // Delay for 100 milliseconds before repeating the loop
 }
+
+
